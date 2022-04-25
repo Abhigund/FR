@@ -10,7 +10,8 @@ https://salmon-hill-016983610.1.azurestaticapps.net/
 
 working model : https://youtu.be/j3k-A2JtjLM
 
-Home page of project( )
+Home page of project
+![image](https://user-images.githubusercontent.com/83135144/165148226-b5dd61ff-dd72-4b2e-92f1-f64c5bb3e075.png)
 
 Chat bot for online ordering 
 ![IMAGE 2022-04-23 23:15:56](https://user-images.githubusercontent.com/83135144/164933687-cdae6ca2-2c9d-4362-8118-9fff8010f57c.jpg)
