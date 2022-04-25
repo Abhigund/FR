@@ -6,7 +6,7 @@ Eg. Q.Give me the menu   A. 1. Roti, 2.Palak etc.,
 This whole bot and website are deployed in a static web app.
 
 URL of our webite(Azure hosted, demo project link)
-https://witty-smoke-06c1e5410.1.azurestaticapps.net/
+https://salmon-hill-016983610.1.azurestaticapps.net/
 
 
 Home page of project( )
