@@ -1,4 +1,4 @@
-# PROJECT
+# Beetle Restaurant
 We created a Static Restaurant Website, that takes orders from customers directly, by using a bot.
 We have used Azure bot service and static web app services for this.
 The bot takes the input and answers the relavent questions.
