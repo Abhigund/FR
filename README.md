@@ -18,8 +18,9 @@ Chat bot for online ordering
 
 Some of the Screenshots while deploying our bot.
 1. Creating resource group
+![164933772-75153fd8-629e-4a31-af38-b569c1616ae4](https://user-images.githubusercontent.com/83135144/166898006-e4d11d06-5dd2-4cca-9935-b6ed38ae22d1.jpeg)
+
 ![image](https://user-images.githubusercontent.com/83135144/166896924-8b5b2b1b-7c9d-4f10-a89c-01fe767cd79d.png)
-![WhatsApp Image 2022-04-23 at 10 20 08 PM](https://user-images.githubusercontent.com/83135144/164933772-75153fd8-629e-4a31-af38-b569c1616ae4.jpeg)
 2. Adding QnA parts to Knowledge Base
  ![IMAGE 2022-04-23 23:18:56](https://user-images.githubusercontent.com/83135144/164933806-5817d19d-6350-4837-8f92-1e9756d419db.jpg)
 3. Successfully deployed bot with Azure web app service
