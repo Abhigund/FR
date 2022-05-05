@@ -8,7 +8,7 @@ This whole bot and website are deployed in a static web app.
 URL of our webite(Azure hosted, demo project link)
 https://green-flower-0ca264d10.1.azurestaticapps.net
 
-working model : https://youtu.be/j3k-A2JtjLM
+working model : https://youtu.be/TuJf0aWDHak
 
 Home page of project
 ![image](https://user-images.githubusercontent.com/83135144/165148226-b5dd61ff-dd72-4b2e-92f1-f64c5bb3e075.png)
